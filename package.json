@@ -1,0 +1,12 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "## For React Applications",
+  "main": "index.js",
+  "scripts": {
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
