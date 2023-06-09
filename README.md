@@ -21,7 +21,7 @@ I was unable to generate a new image.json file when I reuploaded the images.
 ### Links and Resources
 
 [ImageJSON](https://msadikitorres-images.s3.us-east-2.amazonaws.com/images.json)
-![handleImagesCode](./assets/handleimages.png)
+![handleImagesCode](./assets/img.png)
 
 ### Collaborators
 
